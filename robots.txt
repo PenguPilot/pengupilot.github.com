@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://PenguPilot.github.com/sitemap.xml 
+Sitemap: http://pengupilot.github.com/sitemap.xml 
